@@ -1,0 +1,1 @@
+This folder contains the neccessary files to set up a Docker environment 
